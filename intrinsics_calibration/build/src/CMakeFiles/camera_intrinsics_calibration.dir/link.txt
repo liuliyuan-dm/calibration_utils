@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcamera_intrinsics_calibration.a CMakeFiles/camera_intrinsics_calibration.dir/camera_intrinsics_calibration.cc.o
+/usr/bin/ranlib libcamera_intrinsics_calibration.a
