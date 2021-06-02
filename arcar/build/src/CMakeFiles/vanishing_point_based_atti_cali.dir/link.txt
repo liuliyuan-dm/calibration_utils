@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvanishing_point_based_atti_cali.a CMakeFiles/vanishing_point_based_atti_cali.dir/vanishing_point_based_atti_cali.cc.o
+/usr/bin/ranlib libvanishing_point_based_atti_cali.a
