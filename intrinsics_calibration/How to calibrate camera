@@ -13,3 +13,5 @@ make
 
 程序执行步骤：
 ./src/camera_calibration_main input_file_path output_file_path
+
+Reference: 张正友标定法
