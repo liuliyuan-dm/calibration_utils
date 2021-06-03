@@ -1,0 +1,12 @@
+fx: 553.105
+fy: 551.822
+cx: 943.957
+cy: 508.825
+distortion_coef: -0.0162826
+distortion_coef: -0.0214605
+distortion_coef: 0.000194842
+distortion_coef: 0.000335345
+distortion_coef: 0.00530461
+distortion_coef: 0
+distortion_coef: 0
+distortion_coef: 0
