@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liyuanliu/code/project/cam_imu_cali/src/find_chessboard_corner.cc
+iostream
+-
+opencv2/imgcodecs.hpp
+-
+opencv2/imgproc.hpp
+-
+opencv2/opencv.hpp
+-
+opencv2/calib3d.hpp
+-
+opencv2/core.hpp
+-
+

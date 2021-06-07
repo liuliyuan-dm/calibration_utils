@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -O2  -msse4 -O3 -DNDEBUG -rdynamic CMakeFiles/imu_fusion_main.dir/imu_fusion_main.cc.o -o imu_fusion_main  libimu.a libextended_kalman_filter.a 

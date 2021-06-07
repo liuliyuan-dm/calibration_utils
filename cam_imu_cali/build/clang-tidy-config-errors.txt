@@ -1,0 +1,1 @@
+/home/liyuanliu/code/project/cam_imu_cali/clang_tidy.sh: 行 12: clang-tidy: 未找到命令
